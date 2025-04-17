@@ -14,7 +14,7 @@ CCS811 Sensor und GC9A01 Display
 </div>
 
 ## Story
-Das Repo bescheibt ein Projekt das den CO2-Wert der Luft und flüchtige organische Verbindungen (TVOCs) in der Umwelt misst und anzeigt. Als Anzeige verwende ich das runde 1,28-Zoll-Display GC9A01, als Sensor einen CCS811 und als Controller dient ein Ardoino UNO.
+Das Repo bescheibt ein Projekt das den CO2-Wert ppm der Luft und flüchtige organische Verbindungen (TVOCs ppb) in der Umwelt misst und anzeigt. Als Anzeige verwende ich das runde 1,28-Zoll-Display GC9A01, als Sensor einen CCS811 und als Controller dient ein Ardoino UNO.
 
 <div align="center">
   
