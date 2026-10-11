@@ -1,24 +1,23 @@
-# CO2-Anzeige
-CCS811 Sensor und GC9A01 Display
-
 <a name="oben"></a>
 
 <div align="center">
 
-|[:skull:ISSUE](https://github.com/frankyhub/CO2-Anzeige/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/CO2-Anzeige/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/CO2-Anzeige/wiki)||
+|[:skull:ISSUE](https://github.com/frankyhub/CO2-AnzeigeKI4Kids_SSP/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/CO2-AnzeigeKI4Kids_SSP/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/CO2-AnzeigeKI4Kids_SSP/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20112-blue)|<a href="https://github.com/frankyhub/CO2-Anzeige/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/CO2-Anzeige)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/CO2-Anzeige)|<a href="https://github.com/frankyhub/CO2-Anzeige/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/CO2-Anzeige)|<a href="https://github.com/frankyhub/CO2-Anzeige/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/CO2-Anzeige)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/CO2-Anzeige)| <a href="https://github.com/frankyhub/CO2-Anzeige/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/CO2-Anzeige/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/CO2-AnzeigeKI4Kids_SSP/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/CO2-AnzeigeKI4Kids_SSP)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/CO2-AnzeigeKI4Kids_SSP)|<a href="https://github.com/frankyhub/CO2-AnzeigeKI4Kids_SSP/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/CO2-AnzeigeKI4Kids_SSP)|<a href="https://github.com/frankyhub/CO2-AnzeigeKI4Kids_SSP/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/CO2-AnzeigeKI4Kids_SSP)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20112-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/CO2-AnzeigeKI4Kids_SSP)| <a href="https://github.com/frankyhub/CO2-AnzeigeKI4Kids_SSP/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/CO2-AnzeigeKI4Kids_SSP/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
 </div>
+
 
 ## Story
 Das Repo bescheibt ein Projekt das den CO2-Wert in ppm der Luft und flüchtige organische Verbindungen (Total Volatile Organic Compounds, TVOCs in ppb) in der Umwelt misst und anzeigt. Als Anzeige verwende ich das runde 1,28-Zoll-Display GC9A01, als Sensor einen CCS811 und als Controller dient ein Ardoino UNO.
 
 <div align="center">
-  
-![Bild](pic/display.png)
+
+<img src="pic/display.png" width="500"> 
+<br> <br>  
 
 </div>
 
@@ -39,8 +38,8 @@ Das Repo bescheibt ein Projekt das den CO2-Wert in ppm der Luft und flüchtige o
 |--|--|--|
 
 
-![Bild](pic/UNO.png)
-
+<img src="pic/UNO.png" width="500"> 
+<br> <br>
 
 </div>
 
